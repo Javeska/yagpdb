@@ -3,6 +3,10 @@ package automod_legacy
 // This list is in alphabethical order
 // Open a pr or bug me on discord if you want a word added
 var BuiltinSwearWords = map[string]bool{
+        "sw gg":        true,
+	"gropia gg":        true,
+	"server gg":        true,
+	"skyblok gg":        true,
 	"anal":        true,
 	"anus":        true,
 	"arse":        true,
